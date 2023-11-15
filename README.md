@@ -6,7 +6,7 @@ The clicker.js project is a web application that lets users play a clicking game
 
 ## Project Screenshot
 
-[![Project Screenshot](https://github.com/vadym4che/clicker-js/blob/main/screenshot.png)](https://vadym4che.github.io/clicker-js/)
+[![Project Screenshot](https://github.com/vadym4che/clicker-js/blob/main/screenshot.png)](https://vadym4che.github.io/code-runner/)
 
 ## HTML
 
